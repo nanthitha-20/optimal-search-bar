@@ -1,0 +1,74 @@
+{
+    "results":[
+        {
+            "id":1,
+            "title":"Angular Tutorial",
+            "category":"Education",
+            "description":"Learn Angular step by step with this comprehensive tutorial.",
+            "url":"https://angular.io/tutorial"
+        },
+        {
+            "id":2,
+            "title":"Best Pizza Recipes",
+            "category":"Food",
+            "description":"Discover delicious pizza recipes from around the world.",
+            "url":"https://www.foodnetwork.com/recipes/photos/best-pizza-recipes"
+        },
+        {
+            "id":3,
+            "title":"Top 10 Travel Destinations",
+            "category":"Travel",
+            "description":"Explore the most popular travel destinations for your next vacation.",
+            "url":"https://www.travel.com/top-10-travel-destinations"
+        },
+        {
+            "id":4,
+            "title":"Healthy Smoothie Recipes",
+            "category":"Health",
+            "description":"Try these nutritious and tasty smoothie recipes for a healthy lifestyle.",
+            "url":"https://www.healthline.com/nutrition/healthy-smoothie-recipes"
+        },
+        {
+            "id":5,
+            "title":"JavaScript Basics",
+            "category":"Education",
+            "description":"Get started with JavaScript programming with this beginner-friendly guide.",
+            "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Performance"
+        },
+        {
+            "id":6,
+            "title":"Home Workout Routines",
+            "category":"Fitness",
+            "description":"Stay fit with these effective home workout routines for all fitness levels.",
+            "url":"https://www.healthline.com/fitness/home-workout-routines"
+        },
+        {
+            "id":7,
+            "title":"Best Hiking Trails",
+            "category":"Outdoor",
+            "description":"Discover the best hiking trails for your next outdoor adventure.",   
+            "url":"https://www.outdoor.com/best-hiking-trails"
+        },
+        {
+            "id":8,
+            "title":"Vegan Dessert Recipes",
+            "category":"Food",
+            "description":"Indulge in these delicious vegan dessert recipes that everyone will love.",
+            "url":"https://www.vgandesserts.com/recipes"
+        },
+        {
+            "id":9,
+            "title":"Photography Tips for Beginners",
+            "category":"Photography",
+            "description":"Learn essential photography tips and techniques for beginners.",
+            "url":"https://www.photography.com/photography-tips-for-beginners"
+        },
+        {
+            "id":10,
+            "title":"Mindfulness Meditation Guide",
+            "category":"Health",
+            "description":"Practice mindfulness meditation with this comprehensive guide.",
+            "url":"https://www.healthline.com/fitness/mindfulness-meditation-guide"
+        }
+    ]
+}

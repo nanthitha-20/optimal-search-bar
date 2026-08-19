@@ -1,0 +1,18 @@
+<div class="app-shell">
+    <main class="main-content">
+
+        <app-category-dropdown
+            [endpoint]="'http://localhost:8080/v1/search'"
+            [multiSelect]="true"
+            [defaultSelected]="[]"
+            (selectionChange)="onSelectionChange($event)"
+        />
+
+        <div class="selected-list">
+            @for (item of selectedItems; track item) {
+                <div class="selected-card">{{ item }}</div>
+            }
+        </div>
+
+    </main>
+</div>
